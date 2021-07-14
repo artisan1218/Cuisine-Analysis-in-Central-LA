@@ -110,7 +110,7 @@ Using the data I have after processing, I can finally answer the questions at th
 
 
 2. "What are the most similar neighborhoods in terms of types of cuisine?"
-    Most neighborhoods with Mexican foods as their most popular cuisine are clustered together
+    Most neighborhoods with Mexican foods as their most popular cuisine are clustered together\
     ![image](https://user-images.githubusercontent.com/25105806/125700694-ab9bbc98-9bfe-484e-9338-917464035919.png)
     
     Some other neighborhoods such as Koreantown and Harved Heights are clustered together because they share Korean restaurants as the popular cuisine.\
